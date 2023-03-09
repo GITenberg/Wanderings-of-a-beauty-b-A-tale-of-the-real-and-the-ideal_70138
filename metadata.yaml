@@ -1,0 +1,31 @@
+_repo: Wanderings-of-a-beauty-b-A-tale-of-the-real-and-the-ideal_70138
+_version: 0.0.1
+alternative_title: Evelyn Travers; or, Wanderings of a beauty
+creator:
+  author:
+    agent_name: James, Edwin, Mrs.
+    alias: James, Mrs. Edwin
+    gutenberg_agent_id: '55620'
+    url: http://www.gutenberg.org/2009/agents/55620
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70138'
+language: en
+pgterms:marc904: https://archive.org/details/wanderingsofbeau01jame/page/n1/mode/2up
+pgterms:marc905: 20070628200548james
+pgterms:marc906: '1863'
+pgterms:marc907: US
+production_note: Andrew Sly, MFR, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bCarleton, $c1863.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: 'Wanderings of a beauty : $b A tale of the real and the ideal'
+url: http://www.gutenberg.org/ebooks/70138
