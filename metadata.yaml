@@ -1,6 +1,9 @@
 _repo: Wanderings-of-a-beauty-b-A-tale-of-the-real-and-the-ideal_70138
 _version: 0.1.0
 alternative_title: Evelyn Travers; or, Wanderings of a beauty
+covers:
+- cover_type: archival
+  image_path: 70138-h/images/cover.jpg
 creator:
   author:
     agent_name: James, Edwin, Mrs.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '55620'
     url: http://www.gutenberg.org/2009/agents/55620
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70138#Wanderings-of-a-beauty-b-A-tale-of-the-real-and-the-ideal
 gutenberg_issued: '2023-02-26'
 identifiers:
   gutenberg: '70138'
